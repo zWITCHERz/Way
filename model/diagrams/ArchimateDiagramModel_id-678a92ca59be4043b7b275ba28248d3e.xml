@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Организационная структура (как есть)"
+    name="1. Как есть"
     id="id-678a92ca59be4043b7b275ba28248d3e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1838,7 +1838,7 @@
           startX="-114"
           startY="568"
           endX="-114"
-          endY="5"/>
+          endY="6"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-50abd2d397f949fd82d6366868c42830.xml#id-50abd2d397f949fd82d6366868c42830"/>
