@@ -3,9 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-9b38ee83a6cc43ea8a35e328cc221edf">
   <source
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-bf8297b0c81241a38cab2eba9ea5a148.xml#id-bf8297b0c81241a38cab2eba9ea5a148"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5ed6fa830cd54e76a20ef381de61ba7d.xml#id-5ed6fa830cd54e76a20ef381de61ba7d"/>
   <target
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-fd67da3eeb0d43ec9874c1f7bd46b06e.xml#id-fd67da3eeb0d43ec9874c1f7bd46b06e"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-6f307ae9e0494d2d9d0faf08b3a625df.xml#id-6f307ae9e0494d2d9d0faf08b3a625df"/>
 </archimate:AssociationRelationship>
